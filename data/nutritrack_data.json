@@ -1,0 +1,96 @@
+{
+  "foods": [
+    {
+      "name": "avena",
+      "quantity": "60g",
+      "kcal": 233,
+      "protein_g": 10,
+      "carbs_g": 39.8,
+      "fat_g": 4,
+      "fiber_g": 6,
+      "id": 1779810909183.2986,
+      "meal": "almuerzo"
+    },
+    {
+      "name": "yogur griego",
+      "quantity": "156g",
+      "kcal": 151,
+      "protein_g": 15.6,
+      "carbs_g": 5.9,
+      "fat_g": 7.8,
+      "fiber_g": 0,
+      "id": 1779810923503.9285,
+      "meal": "almuerzo"
+    },
+    {
+      "name": "banano",
+      "quantity": "70g",
+      "kcal": 62,
+      "protein_g": 0.8,
+      "carbs_g": 16.1,
+      "fat_g": 0.2,
+      "fiber_g": 1.8,
+      "id": 1779811039558.9421,
+      "meal": "almuerzo"
+    },
+    {
+      "id": 1779811223095.6777,
+      "name": "60g fresa",
+      "quantity": "60 g",
+      "meal": "desayuno",
+      "kcal": 19,
+      "protein_g": 0.4,
+      "carbs_g": 4.61,
+      "fat_g": 0.18,
+      "fiber_g": 1.2
+    }
+  ],
+  "activities": [
+    {
+      "id": 1779810709758,
+      "type": "espalda",
+      "name": "Entrenamiento espalda",
+      "label": "💪",
+      "duration_min": 45,
+      "intensity": "media",
+      "sets": "12*12",
+      "desc": "Jalones",
+      "kcal_burned": 240
+    },
+    {
+      "id": 1779810733168,
+      "type": "biceps",
+      "name": "Bíceps / Tríceps",
+      "label": "💪",
+      "duration_min": 30,
+      "intensity": "alta",
+      "sets": "12*12",
+      "desc": "Curls",
+      "kcal_burned": 183
+    }
+  ],
+  "goals": {
+    "kcal": 2213,
+    "protein": 180,
+    "carbs": 236,
+    "fat": 61,
+    "fiber": 38
+  },
+  "profile": {
+    "weight": 82,
+    "height": 176,
+    "age": 35,
+    "sex": "male",
+    "activity": 1.55,
+    "goal": "deficit",
+    "muscle": 26,
+    "fat": 15,
+    "bmr": 1750,
+    "tdee": 2713
+  },
+  "history": [],
+  "today": {
+    "foods": [],
+    "activities": []
+  }
+}
