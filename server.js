@@ -2,7 +2,7 @@ const express = require('express');
 const fs = require('fs');
 const path = require('path');
 
-const app = express;
+const app = express();
 
 // ✅ IMPORTANTE: usar puerto dinámico
 const PORT = process.env.PORT || 3000;
